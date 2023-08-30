@@ -1,0 +1,14 @@
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\bin\Debug\net7.0\BankingSystem.exe
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\bin\Debug\net7.0\BankingSystem.deps.json
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\bin\Debug\net7.0\BankingSystem.runtimeconfig.json
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\bin\Debug\net7.0\BankingSystem.dll
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\bin\Debug\net7.0\BankingSystem.pdb
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.AssemblyInfo.cs
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.dll
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\refint\BankingSystem.dll
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.pdb
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\BankingSystem.genruntimeconfig.cache
+C:\Users\spaluru\Desktop\BankingSystem\BankingSystem\obj\Debug\net7.0\ref\BankingSystem.dll
